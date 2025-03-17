@@ -38,6 +38,12 @@
   text-decoration: none;
 }
 
+.markdown-content img {
+  padding: 0.2rem;
+  width: 30rem;
+  height: auto;
+}
+
 .markdown-content blockquote {
   border-left: 4px solid #ccc;
   padding-left: 1rem;
