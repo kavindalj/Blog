@@ -13,8 +13,9 @@ async function getPosts() {
     return {
       slug,
       title: frontmatter.title || "Untitled",
-      author: frontmatter.author || "Unknown",
       date: frontmatter.date ? new Date(frontmatter.date).toISOString().split("T")[0] : "No Date",
+      description: frontmatter.description || "No Description",
+      cover: frontmatter.cover,
     };
   });
   return { posts };

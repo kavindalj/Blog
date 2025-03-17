@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import Link from "next/link";
 
 type PostType = {
   slug: string;
@@ -28,9 +29,10 @@ const Posts: React.FC<PostsProps> = ({ posts }) => {
             />
           </div>
           <div>
-            <h1>{post.title}</h1>
-            <h4>{post.description}</h4>
-            <h2>{post.date}</h2>
+            <h1 className="text-2xl font-bold">{post.title}</h1>
+            <h4 className="text-lg">{post.description}</h4>
+            <h2 className="text-sm">{post.date}</h2>
+            <Link className="font-bold" href={`/blog/${post.slug}`}>Read more&gt;&gt;</Link>
           </div>
         </div>
       ))}
