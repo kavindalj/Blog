@@ -21,7 +21,8 @@ const Posts: React.FC<PostsProps> = ({ posts }) => {
         {posts.map((post) => (
           <div
             key={post.slug}
-            className="bg-blue-500 rounded-lg p-6 w-full max-w-[500px] min-h-auto shadow-lg"
+            className="bg-white/10 backdrop-blur-lg shadow-lg border border-white/20 
+                       rounded-lg p-6 w-full max-w-[500px] min-h-auto"
           >
             <div>
               <Image
@@ -33,11 +34,11 @@ const Posts: React.FC<PostsProps> = ({ posts }) => {
               />
             </div>
             <div>
-              <h1 className="text-3xl font-bold">{post.title}</h1>
-              <h4 className="text-xl">{post.description}</h4>
-              <h2 className="text-md">{post.date}</h2>
-              <Link className="font-bold cursor-pointer" href={`/blog/${post.slug}`}>
-                Read more&gt;&gt;
+              <h1 className="text-3xl font-bold text-black">{post.title}</h1>
+              <h4 className="text-xl text-gray-300">{post.description}</h4>
+              <h2 className="text-md text-gray-400">{post.date}</h2>
+              <Link className="font-bold text-blue-400 hover:text-blue-300 hover:underline" href={`/blog/${post.slug}`}>
+                Read more &gt;&gt;
               </Link>
             </div>
           </div>
