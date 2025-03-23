@@ -35,9 +35,9 @@ const Posts: React.FC<PostsProps> = ({ posts }) => {
             </div>
             <div>
               <h1 className="text-3xl font-bold text-black">{post.title}</h1>
-              <h4 className="text-xl text-gray-300">{post.description}</h4>
-              <h2 className="text-md text-gray-400">{post.date}</h2>
-              <Link className="font-bold text-blue-400 hover:text-blue-300 hover:underline" href={`/blog/${post.slug}`}>
+              <h4 className="text-xl text-gray-200">{post.description}</h4>
+              <h2 className="text-md text-gray-300">{post.date}</h2>
+              <Link className="font-bold text-blue-300 hover:text-blue-100 hover:underline" href={`/blog/${post.slug}`}>
                 Read more &gt;&gt;
               </Link>
             </div>

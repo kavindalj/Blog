@@ -87,7 +87,7 @@ export default async function PostPage({ params }: PostProps) {
         </div>
       </div>
       <div
-        className="markdown-content mt-4"
+        className="prose prose-xl max-w-none markdown-content mt-4"
         dangerouslySetInnerHTML={{ __html: contentWithImages }}
       />
     </div>
