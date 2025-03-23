@@ -4,16 +4,19 @@
 .markdown-content h1 {
   font-size: 1.5rem;
   font-weight: bold;
+  color: #364153;
 }
 
 .markdown-content h2 {
   font-size: 1.3rem;
   font-weight: bold;
+  color: #364153;
 }
 
 .markdown-content h3 {
   font-size: 1.1rem;
   font-weight: bold;
+  color: #364153;
 }
 
 /*.markdown-content ul {*/

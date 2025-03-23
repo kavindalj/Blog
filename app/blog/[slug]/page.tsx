@@ -71,7 +71,7 @@ export default async function PostPage({ params }: PostProps) {
     : "No Date";
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto mt-3 p-4 min-h-[calc(100vh-8rem)]">
       <div>
         <div>
           <Image
@@ -82,7 +82,7 @@ export default async function PostPage({ params }: PostProps) {
           />
         </div>
         <div>
-          <h1 className="text-3xl font-bold">{frontmatter.title}</h1>
+          <h1 className="text-3xl text-gray-800 font-bold">{frontmatter.title}</h1>
           <p className="text-gray-600">{formattedDate}</p>
         </div>
       </div>
