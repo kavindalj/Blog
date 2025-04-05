@@ -28,7 +28,9 @@ export default async function Home() {
 
   return (
     <>
-      <Posts posts={posts} />
+      <div className="flex flex-col items-center min-h-[calc(100vh-8rem)] p-6">
+        <Posts posts={posts} />
+      </div>
     </>
   );
 }
