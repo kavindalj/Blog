@@ -41,7 +41,7 @@ I don’t.
 
 Instead, I use [**Syncthing**](https://syncthing.net/) — a peer-to-peer file syncing tool that works over my local network or encrypted over the internet.
 
-It keeps my KeePassXC database synced across my Linux laptop, my Android phone, and even my backup server — all **without touching a third-party cloud**.
+It keeps my KeePassXC database synced across my Linux laptop, Macbook, my Android phone, and even my backup server — all **without touching a third-party cloud**.
 
 ## Secure Browsing: Cookies, Containers & Control
 
