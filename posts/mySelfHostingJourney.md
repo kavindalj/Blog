@@ -6,8 +6,6 @@ cover: /mySelfHostingJourney/cover.webp
 description: From an old laptop to a full-fledged home lab—this is my journey into self-hosting and networking. Join me as I experiment with Proxmox, Docker, Pi-hole, and more, turning curiosity into hands-on experience. Whether it's hosting services, securing networks, or planning future upgrades, this blog is all about learning by doing. Welcome to my self-hosting adventure!
 ---
 
-# My Self-Hosting Journey
-
 ## How It All Started
 
 It all began when I watched a [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) server video and discovered my love for servers. This led me to self-learn about servers and networking. I also studied [CCNA](https://en.wikipedia.org/wiki/CCNA) concepts, though I did not pursue certification. Eventually, I ventured into self-hosting and home servers.
