@@ -34,7 +34,7 @@ const Posts: React.FC<PostsProps> = ({ posts }) => {
           return (
             <div
               key={post.slug}
-              className={`flex flex-col bg-white backdrop-blur-md shadow-lg shadow-gray-200 border border-white rounded-lg p-6 w-full max-w-[500px] transition-transform duration-300 transform hover:scale-105 self-start ${isExpanded ? "" : "min-h-[380px]"
+              className={`flex flex-col bg-white backdrop-blur-md shadow-lg shadow-gray-200 border border-white rounded-lg p-6 w-full max-w-[500px] transition-transform duration-300 transform hover:scale-105 self-start ${isExpanded ? "" : "min-h-[380px] md:min-h-[430px] lg:min-h-[500px]"
                 }`}
             >
               <Link href={`/blog/${post.slug}`}>
