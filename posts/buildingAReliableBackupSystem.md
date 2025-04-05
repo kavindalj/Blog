@@ -5,8 +5,6 @@ description: In this blog post, I share how I built a reliable backup system to 
 cover: /buildingAReliableBackupSystem/cover.png
 ---
 
-# Building a Reliable Backup System for My Multi-Device Setup
-
 In the ever-evolving world of technology, I find myself constantly experimenting with different operating systems and devices. While this is exciting, it also presents a challenge: data protection and availability. Losing important files due to hardware failure, accidental deletion, or even system corruption is not an option. So, I decided to build a robust backup system that ensures my data is safe, accessible, and redundant.
 
 ## My Setup: A Diverse Ecosystem

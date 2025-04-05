@@ -5,8 +5,6 @@ description: "Linux is more than just an operating system—it's a canvas for cr
 cover: /myLinuxJourney/archHyprland.png
 ---
 
-# My Linux Journey
-
 ## First Encounter with Linux
 
 My first experience with Linux was back in grade 9, but I had no idea what it really was. My first laptop came with Ubuntu pre-installed, but since I wasn’t familiar with it, I quickly replaced it with Windows. For a long time, I stuck with Windows, occasionally experimenting with various Linux distributions but never making the full switch.
@@ -39,7 +37,7 @@ Eventually, I got a new laptop, which I still use today. On this machine, I inst
 
 Now, my Linux setup is fully customized to match my workflow, making it productive and minimal. Over the years, I have experimented with many distributions, including Ubuntu, Debian, and Fedora, before settling on Arch. I also use a variety of software daily to enhance my workflow:
 
-- **Web & Communication**: Firefox, Ferdium, Breve
+- **Web & Communication**: Firefox, Ferdium, Brave
 - **Media & Productivity**: FreeTube, MPV, Blanket, Super Productivity
 - **Development & Tools**: Alacritty, Kitty, VSCode, Neovim (NvChad), VirtualBox, Virt-Manager
 - **File & Security**: PCManFM, lf file manager, KeePassXC, LibreOffice, Zathura, Xournal++, LocalSend
