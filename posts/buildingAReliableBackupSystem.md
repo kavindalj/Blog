@@ -48,3 +48,7 @@ By implementing this strategy, I’ve built a **reliable, automated, and secure*
 
 Which one will you be?
 
+### 🔗 Related Posts
+
+- [My Self-Hosting Journey](https://blog.kavindalj.me/blog/mySelfHostingJourney) — Curious how I turned an old laptop into a reliable home server that powers this entire backup system?
+- [My Linux Journey](https://blog.kavindalj.me/blog/myLinuxJourney) — This backup setup wouldn’t exist without my dive into Linux — here’s how it all started.

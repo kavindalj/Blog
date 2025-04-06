@@ -53,3 +53,7 @@ Here are some screenshots of my self-hosted services:
 
 Self-hosting has been a fun and rewarding experience, allowing me to learn so much about networking, servers, and security through hands-on practice. I look forward to growing my home lab even further!
 
+### 🔗 Related Posts
+
+- [My Linux Journey](https://blog.kavindalj.me/blog/myLinuxJourney) — Self-hosting wouldn’t be possible without my Linux foundation — here's the story behind that transition.
+- [Building a Reliable Backup System](https://blog.kavindalj.me/blog/buildingAReliableBackupSystem) — See how I layered in automatic backups and data protection into my self-hosted setup.

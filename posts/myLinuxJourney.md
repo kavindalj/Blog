@@ -50,3 +50,7 @@ My journey with Linux is far from over. I continue to refine my setup, experimen
 
 If you're considering switching to Linux, my advice is simple: **just start**. The open-source world has a lot to offer, and the freedom to customize your system exactly how you want is an experience worth having.
 
+### 🔗 Related Posts
+
+- [My Self-Hosting Journey](https://blog.kavindalj.me/blog/mySelfHostingJourney) — After switching to Linux, I went fully self-hosted — here's how I built my personal server setup.
+- [Building a Reliable Backup System](https://blog.kavindalj.me/blog/buildingAReliableBackupSystem) — With Linux in place, the next step was making my data bulletproof. This is the strategy I built.

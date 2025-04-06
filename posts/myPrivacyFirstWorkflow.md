@@ -74,3 +74,8 @@ No cloud logins. No third-party trust. Just my own system, secured by design.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 
 Stay private, stay secure. 🛡️
+
+### 🔗 Related Posts
+
+- [My Self-Hosting Journey](https://blog.kavindalj.me/blog/mySelfHostingJourney) — Want full control over your digital life? Here’s how I ditched the cloud and built my own private infrastructure.
+- [Building a Reliable Backup System](https://blog.kavindalj.me/blog/buildingAReliableBackupSystem) — Security isn’t complete without backups — here’s how I ensure my encrypted data is safe and recoverable.
