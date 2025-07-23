@@ -154,6 +154,8 @@ The future of healthcare lighting is **personalized**, **intelligent**, and **hu
 
 If you enjoyed learning about CircadiaLux, you might also be interested in these related posts:
 
+- **[How I Designed My Own Project Management System for Student Tech Projects](https://blog.kavindalj.me/blog/designingMyProjectManagementSystem)** - Discover the project management system and collaboration workflows that made CircadiaLux possible, from Discord communication to Git workflows.
+
 - **[My Self-Hosting Journey](https://blog.kavindalj.me/blog/mySelfHostingJourney)** - Explore how I built my home server infrastructure and self-hosted services, sharing similarities with the IoT and backend architecture decisions in CircadiaLux.
 
 - **[Building a Reliable Backup System for My Multi-Device Setup](https://blog.kavindalj.me/blog/buildingAReliableBackupSystem)** - Learn about system reliability and data management strategies that inform the robust architecture principles used in CircadiaLux.
