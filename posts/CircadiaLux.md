@@ -59,6 +59,12 @@ By optimizing the first link ( light ) we improve everything that follows.
 
 ## 🛠️ CircadiaLux System Overview
 
+🎬 **Watch the Demo Video**
+
+See CircadiaLux in action—how the system predicts, controls, and adapts lighting conditions in real-time using ML, IoT, and Supabase:
+
+[![Watch the video](https://img.youtube.com/vi/5K2pWXJpNYY/maxresdefault.jpg)](https://youtu.be/5K2pWXJpNYY)
+
 ### 🧭 Architecture at a Glance
 
 ![System Architecture of CircadiaLux showing ML pipeline, Supabase backend, IoT devices, and web dashboard](/circadialux/architectureDiagram.png)
